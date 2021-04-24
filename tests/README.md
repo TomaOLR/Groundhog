@@ -1,0 +1,7 @@
+#SYNOPSIS
+
+    ./groundhog period
+
+#DESCRIPTION
+
+    period      the number of days defining a period
